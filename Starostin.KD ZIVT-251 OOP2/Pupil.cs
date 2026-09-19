@@ -131,6 +131,7 @@ namespace Starostin.KD_ZIVT_251_OOP2
 
     }
 
+    //Класс хорошист
     public class GoodPupil : Pupil
     {
         private static Random random = new Random();
@@ -187,7 +188,7 @@ namespace Starostin.KD_ZIVT_251_OOP2
 
     }
 
-    // Класс троешника
+    // Класс троешник
     public class BadPupil : Pupil
     {
         private static Random random = new Random();
